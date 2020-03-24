@@ -1,2 +1,2 @@
 # Marinho
-Appendix and curious in data science
+Learner and curious in data science
